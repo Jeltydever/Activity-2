@@ -1,1 +1,3 @@
 # Activity-2
+
+This infographic describes the impact of computer science, with its positive effects and negative effects in the modern era. The data infographic shown here is about the percentage of Ateneo students taking 4 different courses: Computer Science, Nursing, Architecture, and Psychology. The infographic aims to show how Computer Science compares with other fields and how it contributes to society through technology, innovation, communication, healthcare, and education. At the same time, it highlights some challenges of Computer Science, such as cybersecurity risks, privacy concerns, job displacement, and dependence on technology. Overall, the infographic shows the importance and growing influence of Computer Science in modern society.
